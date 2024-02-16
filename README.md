@@ -1,6 +1,6 @@
 The project provides several opportunities for interactive interaction:
 &nbsp;
-* **Android application** - `:app` module
+* **Android application** - `:app` module (You also can download apk https://github.com/ardmn/KeyValueStorageCompose/releases/download/v1.0.0/app-debug.apk)
 &nbsp;
 
 https://github.com/ardmn/KeyValueStorageCompose/assets/7188636/d991383c-9737-4794-8b52-16ad1684049d
